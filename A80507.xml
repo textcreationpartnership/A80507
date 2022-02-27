@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The coppy of a letter written to the lower house of Parliament touching divers grievances and inconveniences of the state &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80507</idno>
+            <idno type="STC">Wing C6176A</idno>
+            <idno type="STC">Thomason E167_9</idno>
+            <idno type="STC">ESTC R318</idno>
+            <idno type="EEBO-CITATION">99872301</idno>
+            <idno type="PROQUEST">99872301</idno>
+            <idno type="VID">156996</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156996)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E167[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The coppy of a letter written to the lower house of Parliament touching divers grievances and inconveniences of the state &amp;c.</title>
+               </titleStmt>
+               <extent>[2], 14, 17-26 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Iohn Dawson for Thomas Walkley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Erroneously attributed to Sir John Suckling.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156996:1" rendition="simple:additions"/>
+            <p>THE COPPY OF A LETTER WRITTEN TO THE LOWER HOVSE OF PAR<g ref="char:EOLhyphen"/>LIAMENT TOUCHING DI<g ref="char:EOLhyphen"/>VERS GRIEVANCES AND IN<g ref="char:EOLhyphen"/>CONVENIENCES OF THE STATE &amp;c.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Iohn Dawſon</hi> for <hi>Thomas Walkley,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156996:2"/>
+            <pb n="1" facs="tcp:156996:2"/>
+            <head>THE COPPY OF A LETTER WRIT<g ref="char:EOLhyphen"/>TEN TO THE LOWER Houſe of Parliament touching divers greivances and inconve<g ref="char:EOLhyphen"/>niences of the State &amp;c.</head>
+            <opener>
+               <salute>To my Noble friends of the lower Houſe of Parliament.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F my Country had held me worthy to have ſerved in this Parliament, I had now beene made a member of your lower houſe as formerly I have beene in ſundry other Parliaments, but how unkindly ſo ever ſhee dealeth with me, I will ever ſhew my thankfulneſſe to her, and de<g ref="char:EOLhyphen"/>liver by way of obſervation what I have heretofore learned in that grave and wiſe aſſembly for admoniſh<g ref="char:EOLhyphen"/>ment to the elder, and a pathway for the younger to walke in.</p>
+            <pb n="2" facs="tcp:156996:3"/>
+            <p>Parliaments in my time have beene wonte to take up ſome ſpace at the firſt meeting to ſettle the Houſe and to determine of unlawfull elections, and in this point they never had greater cauſe to bee circumſpect, then at this time for by an abuſe lately crept in, there is introduced a cuſtome which if it bee not foreſeene and prevented will bee great derogation to the ho<g ref="char:EOLhyphen"/>nour and a weakening to the power of your houſe, where the law giveth a freedome to Corporations to elect Burgeſſes and forbiddeth any indirect courſe to bee taken in their election many of the Corporations are become ſo baſe minded and timerous, that they will not hazard the indignation of a Lord Lieutenants let<g ref="char:EOLhyphen"/>ter, who underhand ſtickes not to threaten them with the charge of a Musket or a horſe at a Muſter, if that he hath not the election of the Burgeſſes, and not they themſelves.</p>
+            <p>And commonly thoſe that the Lords recommend are ſuch as deſire it for protection, or are ſo igno<g ref="char:EOLhyphen"/>rant of the place they ſerve for, as that there being an occaſion to ſpeake of the Corporation for which they are choſen, they have asked their Neighbours ſitting by whether it were a Sea or Land Towne. If you ſeeke not to prevent this kind of choyce, theſe miſchiefes will follow:
+<list>
+                  <item>1. The freedome of the Subject will bee leſſe<g ref="char:EOLhyphen"/>ned.</item>
+                  <item>2. The priviledge of Corporations will bee abroga<g ref="char:EOLhyphen"/>ted, men outlawed, and law breakers, will bee law ma<g ref="char:EOLhyphen"/>kers.</item>
+                  <item>3. The voices of your Houſe ſhall bee at the diſpoſe of the Lords of the upper Houſe, and the aſſembly of the Commons will be made needeleſſe.</item>
+               </list>
+            </p>
+            <pb n="3" facs="tcp:156996:3"/>
+            <p>Gentlemen of farre remote Countries, may ſpare their labour to come up, for there we ſhall bee contra<g ref="char:EOLhyphen"/>dicted with two yeares, and that by ſuch men, if they be examined, and are not liable to taxes, Subſidies, Loanes, or other payments, they ſhall enjoy their ends, to wit liberty and freedome, and the Lords diſpoſe of ſuch lawes as they ſhall purpoſe.</p>
+            <p>The next thing that is required, is liberty of ſpeech, without which Parliaments have little force or power; ſpeeches begets doubts, and reſolves them, and doubtes in Schooles get underſtanding, he that doubtes much asketh often, and learnes much, and he that feares the worſt, ſooneſt prevents a miſchiefe.</p>
+            <p>This priviledge of ſpeech is antiently granted by the teſtimony of <hi>Philip Comines</hi> a ſtranger who pre<g ref="char:EOLhyphen"/>ferres our Parliaments, and the freedome of the Sub<g ref="char:EOLhyphen"/>jects in them, above all other aſſemblies, which free<g ref="char:EOLhyphen"/>dome if it bee broken or diminiſhed is negligently loſt, ſince the dayes of <hi>Comines.</hi>
+            </p>
+            <p>If freedome of ſpeech ſhould bee prohibited when men with modeſty make repetition of the grievances &amp; enormities of the Kingdome, when men ſhall deſire reformation of wrongs &amp; injuries committed, &amp; have no relation of evill thought to his Majeſty. But with open heart and zeale expreſſe their dutifull &amp; reverent reſpect to him and his ſervice: I ſay if this kind of li<g ref="char:EOLhyphen"/>berty of ſpeech be not allowed in time of Parliament, they will extend no farther then to quarter Seſſions, &amp; their meetings and aſſemblies will be unneceſſary for all meanes of diſorder new crept in, and all reme<g ref="char:EOLhyphen"/>dies and redreſſes will be quite taken away.</p>
+            <p>As it is no manners to conteſt with the King in his election of Councellors and Servants (for Kings
+<pb n="4" facs="tcp:156996:4"/>obey no men) but their lawes, ſo were it a great neg<g ref="char:EOLhyphen"/>ligence and part of treaſon for a ſubject not to bee in ſpeech againſt the abuſes wrongs &amp; offences that may bee occaſioned by perſons in authority, what remedy can bee expected from a Prince to the Subjects if the enormities of his Kingdome be concealed from him, or what King ſo religious or juſt in his owne nature, that may not hazard the loſſe of the hearts of his Sub<g ref="char:EOLhyphen"/>jects without this liberty of ſpeech in Parliament. For ſuch is the misfortune of moſt Princes, and ſuch is the unhappines of Subjects, where Kings affections are ſettled, and their loves ſo farre tranſported to pro<g ref="char:EOLhyphen"/>mote ſervants, as they onely truſt and credit what they ſhall informe.</p>
+            <p>In this caſe what Subject dares complaine, or what Subject dares contradict the words or actions of ſuch a Servant, if it be not warranted by freedome of a Par<g ref="char:EOLhyphen"/>liament they ſpeaking with humility, for nothing obtaineth favour ſo much with a King, as diligent obe<g ref="char:EOLhyphen"/>dience.</p>
+            <p>The ſureſt and ſafeſt way betwixt the King and his people, and leaſt ſcandall of partiality with indiffe<g ref="char:EOLhyphen"/>rency, with integrity and ſincerity to examine the grievances of the Kingdome, without touching upon the perſon of any man further then the cauſe giveth occaſion; for otherwiſe you ſhall conteſt with him that hath the Princes eares open, to hearken to his in<g ref="char:EOLhyphen"/>chanted tongue, hee informes ſecretly, when you ſhall not be admitted to excuſe, hee will caſt your de<g ref="char:EOLhyphen"/>ſerved malice againſt him to your contempt againſt the King, and ſeeking to leſſen his authority, hee will make the Prince, the ſheild of his revenge.</p>
+            <p>Theſe are the ſiniſter practiſes of ſuch ſervants to de<g ref="char:EOLhyphen"/>ceive
+<pb n="5" facs="tcp:156996:4"/>their Soveraignes, when theſe grievances ſhall be authentically proved and made manifeſt to the World, by your paines to examine, and freedome to ſpeake, no Prince can be ſo affectionate to a ſervant, or ſuch an enemy to himſelfe, as not to admit of this indifferent proceeding, if his ſervices be allowable and good they will appeare with glory: if bad, your labour ſhall de<g ref="char:EOLhyphen"/>ſerve thankes both of Prince and Countrey, when ju<g ref="char:EOLhyphen"/>ſtice ſhall thus ſhine, people will bee animated to ſerve their King with integrity; for they are naturally in<g ref="char:EOLhyphen"/>clined to imitate Princes in good, or bad: the words of <hi>Cicero</hi> will then appeare, that malitious and evill men make Princes poore, and one perfect good man is able to make a Realme rich.</p>
+            <p>One caſe I will inſtance, that is common in the mouthes of all people, and generally <hi>vox populi, vox Dei;</hi> If one of quality in the laſt expedition to the Iſle of <hi>Rhee</hi> endeavoured to conceale the number of men loſt in the laſt encounter, and confidently affirmed their number not to exceed three or foure hundred, till a Doctor of phiſick out of tenderneſſe of conſcience and duty to his Majeſty could not diſſemble, the vulgar and true report, but acquainted his Majeſty of 2000. of his Subjects there loſt, this was ſo contrary to the firſt information, and ſo diſpleaſing to the Informer and his deſignes, that hee cauſed the Phyſitians re<g ref="char:EOLhyphen"/>moove, from his highneſſe preſence, who yet remaines in kind of a baniſhed man.</p>
+            <p>The truth of this two reports is eaſily determined by the Clarkes of the bands of each Company, and is worthy to be diſcovered for truths ſake, truth being ſo noble of it ſelfe, as it will make him honourable that pronounceth it, lyes, may ſhadow it, but not
+<pb n="6" facs="tcp:156996:5"/>darken it, they may blame but never ſhame it, by this ſmall precedent his Majeſty ſhall ſee himſelfe abuſed, and it may bee a meanes for him to reflect, both upon men and matter.</p>
+            <p>The men ſlaine are no leſſe injured by concealing their names, whoſe lives were loſt for King and Coun<g ref="char:EOLhyphen"/>trey.</p>
+            <p>The <hi>Romans</hi> would have held it the higheſt honour for their friends and poſterity ſo to doe, and the Par<g ref="char:EOLhyphen"/>liament may feare that thoſe that ſtick not ſo palpably to wrong a King, may as unjuſtly caſt aſperſions upon the houſe and other his loving Subjects.</p>
+            <p>There is no remedy left for thſe miſ-reports, but a freedome of ſpeech in Parliament, for there is no wiſe man, but knowes what and when to ſpeake, and how to hold his peace, whileſt Subjects tongues are tied, for feare they may reach him a rap, whoſe conſcience cries guilty; The King and his people are kept from underſtanding one another, the enemy is hartened a<g ref="char:EOLhyphen"/>broad, and the malignant humour of diſcontent nou<g ref="char:EOLhyphen"/>riſhed at home, and all for one who is like a Dragon that bites the eares of the Elephant, becauſe he knowes the Elephant cannot reach him with his Trunke; And Princes are abuſed by falſe reports, whiſpered in their eares by Sicophants and Flatterers. <hi>Diogines</hi> being asked what Beaſt bite ſoareſt, anſwered of wild Beaſts the Backbiter, of tame the Flatterer.</p>
+            <p>Now to diſcend to grievances which are of two kinds:
+<list>
+                  <item>Firſt, Some concerning the Kingdome in gene<g ref="char:EOLhyphen"/>rall.</item>
+                  <item>Secondly, Some in particular, which have relation to the generall.</item>
+               </list>
+            </p>
+            <pb n="7" facs="tcp:156996:5"/>
+            <p>The grievances in generall are ſo many as will ſerve for every member of your Houſe to preſent two a peece to your viewes; and becauſe I cannot bee ad<g ref="char:EOLhyphen"/>mitted amongſt you my ſelfe, yet in regard I have beene a member of you, I will preſume ſo farre as to ranke my ſelfe with you, and to tender the number of two to your conſideration.</p>
+            <p n="1">1. My firſt complaint is of titles of honour, and that in two kinds.</p>
+            <p>Firſt, In reſpect of the parties themſelves, their e<g ref="char:EOLhyphen"/>ſtates, and parentage.</p>
+            <p>Secondly, In reſpect of the manner of their attaining therunto, which is mercenary, eaſe, and corrupt, which in reaſon ſhould not hold, for by Law the conſidera<g ref="char:EOLhyphen"/>tion is unlawfull.</p>
+            <p>
+               <hi>Trajan</hi> commended <hi>Plutarch</hi> for his precepts in Schoole, when hee taught that men ſhould labour to deſerve honour, but avoid the getting of it baſely, for if it were reputation to have it by deſert, it was in<g ref="char:EOLhyphen"/>famie to buy it for money; in that age, where rich men were honoured, good men were deſpiſed.</p>
+            <p>Honour is not to bee valued according to the vul<g ref="char:EOLhyphen"/>gar opinion of men, but prized and eſteemed as the ſurname of vertue ingendred in the mind, and ſuch honour, no King can or men can purchaſe; Hee that will ſtrive to bee more honourable then others, ought to abandon paſſion, pride, and arrogancy; that ſo his vertue may ſhine above others, for honour conſiſts not in the title of a Lord, but in the opinion people have of his vertue, for it is much more honour to de<g ref="char:EOLhyphen"/>ſerve and not to have it, then to have it, and not de<g ref="char:EOLhyphen"/>ſerve it.</p>
+            <p>There is one of three things that commonly cau<g ref="char:EOLhyphen"/>ſeth
+<pb n="8" facs="tcp:156996:6"/>a mans advancement, deſert, favour, and power.</p>
+            <p n="1">1. The firſt makes a man worthy of it, the other two are but abuſes; for favour is but a blind fortune, an ounce of which at Court is better then a pound of wiſ<g ref="char:EOLhyphen"/>dome; fortune never favoreth but flattereth; ſhee ne<g ref="char:EOLhyphen"/>ver promiſeth, but in the end ſhee deceiveth; ſhee ne<g ref="char:EOLhyphen"/>ver raiſeth, but ſhee caſteth downe againe, and this ad<g ref="char:EOLhyphen"/>vancement is meeter to bee called luck, then merit. That honour, that is compaſſed by power, takes unto it ſelfe liberty, and deſires not to bee governed by wiſedome, but force; It knowes not what it deſires, nor hath a feeling of any injury, it is neither mooved with ſweet words, nor pittifull teares, ſuch men leave not to doe evill, becauſe they have a deſire to it, but when their power faileth to doe it; The true honour amongſt the honorableſt, is where fortune caſteth downe, where there is no fault; but it is infamy where fortune raiſeth, where there is no merit.</p>
+            <p>Examine the ſtate and condition of men raiſed to honour theſe five and twenty yeares paſt, and whe<g ref="char:EOLhyphen"/>ther it be deſert, favour, or power that hath preferred them.</p>
+            <p>Enter into the miſchiefe the Kingdome hath ſuffe<g ref="char:EOLhyphen"/>red, and doth ſuffer by it, and the cauſe of his Majeſties great wants will ſoone appeare.</p>
+            <p>Collect with your ſelves, how many poore and needy companions have beene raiſed to the higheſt top of honour, then will it appeare whether deſert, favour, or power advanced them.</p>
+            <p>After this examine, their Princely expences in theſe five and twenty yeares, their eſtates in preſent, and what is requiſite to maintaine their future degrees of
+<pb n="9" facs="tcp:156996:6"/>honour, to themſelves and their poſterity, and you ſhall find his Majeſties annuall revenewes conſumed and ſpent upon thoſe unworthy perſons, beſides the im<g ref="char:EOLhyphen"/>payring and impoveriſhing of the ſtate, it bringing with it the contempt of greatneſſe and authori<g ref="char:EOLhyphen"/>ty.</p>
+            <p>It breeds an inward malice in Gentlemen better de<g ref="char:EOLhyphen"/>ſerving of their Country, better able to maintain the de<g ref="char:EOLhyphen"/>gree of honour without charge to King or Kingdome, and whoſe houſes and alliance may better challenge then the beſt of them.</p>
+            <p>It breeds diſcontent in the meaner ſort of Sub<g ref="char:EOLhyphen"/>jects to ſee his Majeſties wealth and revenewes of the Kingdome, thus waſted and conſumed, whereby his Majeſty is enforced to exact from them, who would otherwiſe bee able to helpe himſelfe.</p>
+            <p>The ancient and great Nobility of the land cannot chooſe, but inwardly fret to ſee themſelves ranked yea overtopped by theſe men, that once would have thought it an honour to bee a follower of theirs.</p>
+            <p>The ſecond abuſe of honour is the baſe and merce<g ref="char:EOLhyphen"/>nary buying of it, obſerve commonly what theſe peo<g ref="char:EOLhyphen"/>ple are by birth, and mark the manner of their and their Fathers getting of wealth to compaſſe this title, and you ſhall find them people moſt odious to the Com<g ref="char:EOLhyphen"/>mon-wealth, by their extortion uſury and other un<g ref="char:EOLhyphen"/>godly kind of getting.</p>
+            <p>Can there bee a greater grievance to a noble mind, then to ſee theſe upſtart families by their unſufferable miſery, penury, and extortion growne to wealth, to preceede the beſt of you in ranke, degree, and calling, whoſe Anceſtors have loſt their lives for King and Country, and your ſelves in many reſpects more able
+<pb n="10" facs="tcp:156996:7"/>and capable of ſerving your Prince and Common<g ref="char:EOLhyphen"/>wealth, then they and every way better deſer<g ref="char:EOLhyphen"/>ving.</p>
+            <p>The character of a covetous man is, that hee getteth his goods with care, and envy of his Neighbours; with ſorrow to his enemies, with travell to his body, with griefe to his Spirit, with ſcruple to his con<g ref="char:EOLhyphen"/>ſcience, with danger to his ſoule, with ſuite to his children, and curſe to his heires, his deſire is to live poore, to die rich; But as theſe vices are made ver<g ref="char:EOLhyphen"/>tues, even ſo is hee honoured for them with title of Nobility.</p>
+            <p>It is a ſtrange ambition of ſome of them to pur<g ref="char:EOLhyphen"/>chaſe the degrees of Earles, Viſcounts, and Barons of other Countries, as of <hi>Scotland</hi> and <hi>Ireland,</hi> onely for the name of a Lord, for no other priviledge they can challenge in <hi>England,</hi> if they commit any criminall offences, they ſhall bee tried by an ordinary jury, and hanged, if they ſtood in danger of arreſt (as I thinke they are not much inriched by their title) they are ſub<g ref="char:EOLhyphen"/>ject to catch-pooles, and a Dungion in the Counter may be their Sanctuary.</p>
+            <p>And ſeeing their pride makes them covet to di<g ref="char:EOLhyphen"/>vide themſelves from you, and to become <hi>Scots</hi> and <hi>Iriſh,</hi> you can doe no leſſe in requitall, but make an Act, that ſo long as they hold the titles of Forrainers, they be made uncapable to ſit in the Houſe of Parlia<g ref="char:EOLhyphen"/>ment, or to enjoy any freedome more then his Ma<g ref="char:EOLhyphen"/>jeſties Subjects of <hi>Scotland</hi> or <hi>Ireland.</hi>
+            </p>
+            <p>Few, of you are there, that have not ſeene. No<g ref="char:EOLhyphen"/>bility highly praiſed in <hi>England,</hi> and much eſteemed abroad, and none of you now liveth, but to ſee it abu<g ref="char:EOLhyphen"/>ſed, and liberty with too great familiarity in uſe, the
+<pb n="11" facs="tcp:156996:7"/>State of the Court, and reputation of Lords, are much decayed and boldneſſe with contempt crept in, and no way to bee redreſſed but by argentle ſpeech in Parliament, that ſo his Majeſty may ſee the miſchiefe of it, and reforme it, for it reſts onely in his power, who onely hath power to create honour.</p>
+            <p>When <hi>Philip</hi> the ſecond King of <hi>Spaine</hi> entred with Armes upon his Kingdome of <hi>Portugall,</hi> and that with his ſword, hee might have any fitting lawes, yet were there foure priviledges which the <hi>Portugals</hi> beſought they might enjoy; One, whereof was that the King would make no unworthy perſon noble without their approbation, which was granted them, And to this day, they hold that freedome, which keepes that Kingdome in the ancient ſtate honour and digni<g ref="char:EOLhyphen"/>ty, That is to ſay, two Dukes, one Marqueſſe, and eighteen Earles; and thus much for the point of ho<g ref="char:EOLhyphen"/>nour.</p>
+            <p>The ſecond grievance, I will recommend to your viewes, is the carriage of our Warres, the exceſſive charges vainely ſpent therein, the unworthineſſe of the people imployed, the grave experience neglected, the deſignes not warranted by reaſon and diſcretion, and the executions worſe performed, with many other circumſtances, that depend upon it.</p>
+            <p>But before I proceede herein, I muſt crave leave to ſpeake to two points.</p>
+            <p>The one to declare the property and condition of Impoſtures and Deceavers of Princes.</p>
+            <p>In the other, I muſt cleare the Houſe of Parliament, of an imputation caſt upon it.</p>
+            <p>Abuſers of Princes are they, that perſwade them to Warre, to become poore, when they may live in peace,
+<pb n="12" facs="tcp:156996:8"/>and become rich, when they may be loved, cauſeth them to bee hated, when they may enjoy their lives ſecurely, put them in hazard of croſſe fortune raſhly; And laſtly having neceſſity to uſe their Subjects, puts them into that neceſſity, as they refuſe to doe for him, all this is pride of the perſwader as <hi>Socrates</hi> ſaith.</p>
+            <p>In the ſecond, I will cleare the Parliament, in which I was a member, of an ingratefull aſperſion caſt upon it, that is to ſay, that the Parliament was a cauſe to draw his Majeſty into Warre, and failed on their part to contribute towards it.</p>
+            <p>Theſe have beene often repeated and the Parliament accuſed, the contrary hath beene as often reiterated, and the truth expreſſed how farre the Parliament pro<g ref="char:EOLhyphen"/>ceeded therein, but to ſtop the mouths of ſuch falſe re<g ref="char:EOLhyphen"/>ports, and to free the Parliament of ſuch a calumnia<g ref="char:EOLhyphen"/>tion, I muſt uſe this Argument.</p>
+            <p>At the aſſembly at <hi>Oxford,</hi> the Parliament being prorogued thither, money was required of us towards the furniſhing of his Majeſties Fleet, then preparing u<g ref="char:EOLhyphen"/>pon many reaſons alledged too tedious now to repeat; with one conſent it was refuſed, whereupon there was offer made by him that next the King ſeemed to have beſt authority, that if they would, but contribute 40000. l. they ſhould chooſe their enemy.</p>
+            <p>Whereupon I enferre, that before that propoſi<g ref="char:EOLhyphen"/>tion, there was no enemy, and therefore no Warres.</p>
+            <p>The motion of money being denied, the Parlia<g ref="char:EOLhyphen"/>ment inſtantly brake up, and ſeeing no enemy was no<g ref="char:EOLhyphen"/>minated, nor money conſented to by us; I ſee not how the houſe can bee taxed for peace breakers, but rather the name caſt upon ſome young men, for youth by na<g ref="char:EOLhyphen"/>ture
+<pb n="13" facs="tcp:156996:8"/>is prone to pride, eſpecially where experience wants, they are credulous what they heare that plea<g ref="char:EOLhyphen"/>ſeth them, and incredulous with what is told them by wiſe men, they are deſpiſers of others Councels, and very poore in their owne, they are dangerous for Princes to relie on, for ſelfe-will is of greater force, then precepts.</p>
+            <p>Now to proceede in <hi>October</hi> following the Fleete put to Sea, and what they did is apparant by relation written by their Generall at his returne.</p>
+            <p>The voyage being ended another followed the next Summer under the command of that noble Lord the Earle of <hi>Linſey,</hi> which through the weakeneſſe and diſſability of the Ships was not able to performe what he had in charge, and what he deſired.</p>
+            <p>The laſt and moſt lamentable was that to the Iſle of <hi>Rhee</hi> which I likewiſe referre to a man I have ſeene, and to the Bookes printed and extant.</p>
+            <p>Theſe, with that to <hi>Algiers,</hi> to make up a meſſe of Iſland voyages, I wiſh might be referred to examina<g ref="char:EOLhyphen"/>tion of choyce and experienced ſouldiers by land and by Sea, to report their opinions of it, that ſo their er<g ref="char:EOLhyphen"/>rours, their waſtfull expences, their negligences, their weake deſignes, and want of experience may appeare with the ſucceſſe that might have proved, if advice and councell had had preheminence above will and arrogancy; for hee that is ignorant of truth and know<g ref="char:EOLhyphen"/>ledge and led away with pride of his owne opinions muſt needs erre.</p>
+            <p>After it hath paſt your approbation it is worth his Majeſties view, who then ſhall ſee the difference of actions well managed, and raſh and heady enterpriſes undertaken by ignorance, and performed with folly.</p>
+            <pb n="14" facs="tcp:156996:9"/>
+            <p>Buſines of ſo great a conſequence ought to be con<g ref="char:EOLhyphen"/>ſidered of Councell and not onely of the neceſſity profit and honour, but of the poſſibility that was like to follow, for an action well begun is halfe en<g ref="char:EOLhyphen"/>ded.</p>
+            <p>My experience in Diſcipline of Warres by Land and Sea, can ſay no more then to referre it to others, for it is a courſe, I never was bred to in my youth, and now to late in my age to practiſe, onely one thing I obſerve, that in the two vogayes of <hi>Cadeze</hi> and <hi>Rhee,</hi> in the firſt a Land ſouldier commanded at Sea, who knew not what belonged thereunto; And the other was carried by him that was no ſouldier neither by Land nor by Sea, and the ſucceſſe proved accordingly in both, yet their errours were never queſtioned, but they both highly advanced.</p>
+            <p>In my opinion the charge they tooke upon them was as improper as for a Merchant to become a Judge, for I have ever heard, that there are five things neceſſary in a Generall, to wit knowledge, valor, pre<g ref="char:EOLhyphen"/>vention, authority, and fortune; The laſt whereof but one had beene better ſpared at the Iſle of <hi>Rhee,</hi> for alſo late authority joyned with wilfulneſſe of the Com<g ref="char:EOLhyphen"/>mander was the utter bane of the action, as the relation tels us.</p>
+            <p>And it is no marvell, for according to the old ſay<g ref="char:EOLhyphen"/>ing, the beſt Fencer is not alwayes the beſt Fighter, the faireſt Tilter not the beſt experienced Souldier, nor the eare of the favorite at the Court, the beſt Ge<g ref="char:EOLhyphen"/>nerall of an Hoſt. And whoſoever every takes upon him that command beholds himſelfe in a falſe Glas, that makes him ſeeme what hee is not, as on the contrary experience is the Mother of prudence, and prudence
+<pb n="17" facs="tcp:156996:9"/>will not take Councell, leaſt ſhee joyne her will with her will, haſtineſſe cauſeth repentance, and fro<g ref="char:EOLhyphen"/>wardneſſe cauſeth hinderance.</p>
+            <p>For the evils that followed upon theſe two voyages, your ſelves are ſufficient witneſſes, and can judge of it.</p>
+            <p>As namely the billetting of Souldiers in the Coun<g ref="char:EOLhyphen"/>trey, and bringing their Ships in harbours, not abating the entertainement of the one, nor the wages of the other; And yet notwithſtanding, this needleſſe coſt and charges, our ſhips and coaſts are daylie infeſted, in ſuch ſort as we dare not peepe out of harbour.</p>
+            <p>Were the carriage of things now anſwerable to the prudence and preſidents of former times, wee cannot pretend a feare of invaſion, becauſe our Ships are divided into ſeverall harbours, and our Souldiers billetted in inward Countries, beſides the ſeaſon of the yeare giveth no oportunity to an enemy to attempt it.</p>
+            <p>Here is a maſſe of wealth careleſly conſumed, whe<g ref="char:EOLhyphen"/>ther the King or Subject beare it, &amp; no man bettered, but onely thoſe that have the titles of Souldiers, yet never had the happineſſe or honour to ſee what ap<g ref="char:EOLhyphen"/>pertained to ſervice, they are taught inſteade of worke, by which they have lived and beene bred, now to ſpend their time in idleneſſe, &amp; ale-houſes, and to forget their occupations, their example of diſorder encourageth other to follow their liberty.</p>
+            <p>People that were wont to live poorely, yet ſafely, are now by their fellowes and their followers, robbed and ſpoiled, and no remedy for redreſſe.</p>
+            <p>The rich ſtand upon their guard and dare not re<g ref="char:EOLhyphen"/>ſort to Church, leaſt in their abſence, their houſes bee ſurprized and rifled.</p>
+            <pb n="18" facs="tcp:156996:10"/>
+            <p>The Juſtices have onely the name of Officers, but have no power to puniſh injuſtice, all mens prayers are now a dayes to bee defended from the wroth of a mighty man, and the tumult of the people.</p>
+            <p>Garriſons in <hi>England</hi> which have no ſtrong walled Townes, nor is uſed to the diſorder and looſe carriage of Souldiers, is more perillous uncouth and ſtraying then where Warre is practized, innovations in all ſtates are dangerous, eſpecially where there is a dimi<g ref="char:EOLhyphen"/>nution of the Lawes, or a feare to execute Juſtice, through too much liberty given to Souldiers.</p>
+            <p>No Countrey but hath more hurt by their Garri<g ref="char:EOLhyphen"/>ſons then by their enemies.</p>
+            <p>Enemies onely rob the frontiers, others the whole Countrey.</p>
+            <p>The enemy may bee reſiſted, the other not ſpoken againſt.</p>
+            <p>The enemy giveth a ſudden attempt, and returneth, the others doe every day rob and ſpoile.</p>
+            <p>The enemy ſurpriſeth with feare, the other have neither feare nor ſhame.</p>
+            <p>The firſt leſſoning the greatneſſe of the Romane Empire, who by the inſolency of Souldiers, and the firſt raiſing of the houſe of <hi>Ottoman</hi> was by promiſſion and his conniving at his Army.</p>
+            <p>What man is ſo old in <hi>England</hi> that hath ſeene, or what youth ſo young, that ever thought to ſee <hi>Scot<g ref="char:EOLhyphen"/>tiſhmen,</hi> and <hi>Iriſhmen</hi> garriſoned in <hi>England,</hi> and no enemy appeare againſt us, or who could have imagi<g ref="char:EOLhyphen"/>ned, hee ſhould have ever a ſeene our owne people tyrannized over, in our owne Kingdome by this of our owne Nation, and thoſe <hi>Scottiſh</hi> and <hi>Iriſh,</hi> yea and dare not ſo much as complaine.</p>
+            <pb n="19" facs="tcp:156996:10"/>
+            <p>Would our fore-Fathers have thought it ſafety, or policy to drawe 2000. <hi>Scottiſhmen</hi> and <hi>Iriſhmen</hi> into the Iſle of <hi>Wight,</hi> for their defence againſt <hi>France,</hi> when they of the Iſle deſired it not, nay when they oppoſed it.</p>
+            <p>Would they have thought it wiſedome that 2000. mouthes beſides the Inhabitants ſhould live on the food of that Iſland, and ſo bring themſelves into want and penury of victuals, if they ſhould in earneſt be at<g ref="char:EOLhyphen"/>tempted by an enemy.</p>
+            <p>Would they have thought fit, the charge of it ſhould bee required of them, And yet they to ſuffer all injuries from the hands of ſtrange Souldiers, where the meaneſt boy in the Iſland is thought to manage Armes better then the beſt of them that are therebil<g ref="char:EOLhyphen"/>letted.</p>
+            <p>No, but they would rather have thought it diſcre<g ref="char:EOLhyphen"/>tion, upon the returne of thoſe voyages to have cauſed the men to repaire to the place where they were preſ<g ref="char:EOLhyphen"/>ſed, and to have ordered that each pariſh ſhould have ſet them on worke for their maintainance, with com<g ref="char:EOLhyphen"/>mand to be ready upon warning to repaire to the place of randevous.</p>
+            <p>There is no part or place in <hi>England</hi> ſo remore from the Sea, but they might have reſorted to the port aſſigned, before the Ships could be furniſhed, or drawn together.</p>
+            <p>They would have thought it more wiſedome to have retired to their owne harbours, and to have had their men diſcharged, then to have continued this needleſſe and expencefull courſe that is taken.</p>
+            <p>They would have judged it better, to have ſupplied the Iſle of <hi>Wight</hi> with 2000. men out of the maine
+<pb n="20" facs="tcp:156996:11"/>land, when they feared any evill to the Iſland, then to ſend for them into <hi>Scotland,</hi> and to keepe them in con<g ref="char:EOLhyphen"/>tinuall entertainement.</p>
+            <p>They would have thought it more fit to have re<g ref="char:EOLhyphen"/>turned the barbarous <hi>Iriſh</hi> into the Countrey from whence they came, then to make them a vexation to the places and parts where they remaine, ſeeing no ſhadow of reaſon can be pretended for it.</p>
+            <p>
+               <hi>England</hi> wants no men, and hath as good and able men as either of the other two Nations, if his Majeſty had occaſion to uſe them.</p>
+            <p>
+               <hi>England</hi> with ſmall charge and trouble can raiſe what men his Majeſty pleaſeth to command and that ſuddenly, and diſcharge them againe without trouble or charge as quickly.</p>
+            <p>The Wiſemen of <hi>England</hi> would have thought 2. or 300000. pound better ſpared then thus waſt fully conſumed and diſorders committed, wee may com<g ref="char:EOLhyphen"/>pute it to that ſumme, and yet keepe our ſelves within compaſſe, and notwithſtanding the want of money, and the wayes to exact it of the ſubject, is all the ſong now ſung; Hee that ſees or complaines of the evill managing of things, is either impriſoned, baniſht the Court or cenſured for a diſcontent.</p>
+            <p>There is no <hi>Engliſhman,</hi> but knoweth the heart of every other true hearted <hi>Engliſhman,</hi> and with one conſent will all obey their Prince, and to his perſon owe all due reverence, and wee may truly ſay, no King is more happy in Subjects for their love, nor never ſubjects readier to ſerve their King, with their purſes &amp; perſons, nor never people was better bleſt with a King, who is endued with all kind of vertues, &amp; ſtaynd with no manner of vice, his mercy, his temper, his chaſtity,
+<pb n="21" facs="tcp:156996:11"/>and his meekeneſſe, is ſuch as wee may ſay of him, as of <hi>David,</hi> that hee is a man according to Gods owne heart.</p>
+            <p>But, if any man, ſhall poiſon, this opinion of ours, by ſiniſter reports, hee is a worker of ſedition; Hee hath a lying tongue, and ſpeaketh not truth, hee is worthy, to bee ſpued out, not of the Court, but even from the face of the earth.</p>
+            <p>Falſe Informers and miſguiders of good Kings, are much more perilous, then if Princes themſelves were evill, for commonly as wormes breed ſooneſt in ſoft and ſweet wood, ſo are the beſt natures (incli<g ref="char:EOLhyphen"/>ned to honour, and Juſtice) ſooneſt abuſed by falſe Flatterers.</p>
+            <p>The evill they commit, under the authority of good Princes is accounted as done, by the Prince himſelfe; But commonly ſuch people in the end, pay for it, for hee that deſires not to doe good, cannot bee wiſe, but will fall into 4000. follies.</p>
+            <p>One of the firſt propoſitions made to the houſe, will bee for money to ſupport his Majeſties vaſt ex<g ref="char:EOLhyphen"/>pence; at this time, that the enemy threatens thunder againſt the Kingdome, your often Alarums, upon ſuch pretences may make you now to ſecure, for true it is, that the laſt Parliament bookes were publiſhed of in<g ref="char:EOLhyphen"/>vincible preparations intended againſt us, and nothing came of it, but beware you bee not deceived, by an old ſaying, that when one uſually tels lies, he is not truſted, when hee ſpeakes truth, for certainely the danger, is much more, then by the power and great<g ref="char:EOLhyphen"/>neſſe of another enemy.</p>
+            <p>In this caſe you muſt give for your owne ſakes, that ſo you may bee ſure to enjoy what is
+<pb n="22" facs="tcp:156996:12"/>yours, for your ſoveraignes ſake to maintaine his greatneſſe, and ſtate, and for your Countries ſake to keepe it from oppreſſion of the enemy, but withall you ought to lay downe the condition of the King<g ref="char:EOLhyphen"/>dome, and to ſhew that your neceſſity cannot para<g ref="char:EOLhyphen"/>lell with your hearts and deſires, that your minds will bee carried with a willingnes to give, but your hands will keepe back your hearts for want of ability to give.</p>
+            <p>
+               <hi>Themiſtocles</hi> demanding tribute of the <hi>Athenians</hi> told them hee brought two Gods with him, that is to ſay, perſwaſion and violence, they anſwered that they had other two Gods in their Countrey both great and powerfull, which were poverty and impoſſibility which hindred them from giving, but leaſt this anſwer ſhould be poiſoned or miſ-reported to his Majeſty and wreſted to the worſt ſenſe, I pray you to exa<g ref="char:EOLhyphen"/>mine the ſtate and condition of every man in particu<g ref="char:EOLhyphen"/>lar, and their impoſſibility of giving will appeare.</p>
+            <p>What can bee hoped for, from the Merchant, that is prohibited the greateſt Trade of profit and gaine; and dayly damnified by the ſpoile of <hi>Dun<g ref="char:EOLhyphen"/>kirkes.</hi>
+            </p>
+            <p>What can we expect from the owners of Ships, that have ſuffered more Shipwracks lately, then in an hun<g ref="char:EOLhyphen"/>dred yeares before.</p>
+            <p>What can wee looke for from the Husbandmen, when Corne and Wooll is underfoote, for it was an obſervation of the wiſe Lord Treaſurer <hi>Burleigh,</hi> that every twelve pence abated in a ſtone of Wooll was 100000. pound loſſe to the Kingdome.</p>
+            <p>What can bee required, from the multitude, con<g ref="char:EOLhyphen"/>ſidering the little commerce, the dayly payments to
+<pb n="23" facs="tcp:156996:12"/>the King, to the Houſes of correction, to the Poore, to the maimed Souldiers, to the often appearing at Muſters, the altering of Armes, the watching of High<g ref="char:EOLhyphen"/>wayes, the garding of Beacons, and other ſervices at the Juſtices command.</p>
+            <p>What can Knights and Gentlemen give, their ſheepe dying, their tennants decaying, and their rents falling and fayling.</p>
+            <p>What can bee looked for, from the Clergy, conſide<g ref="char:EOLhyphen"/>ring their charge of induction, their firſt fruits, and the maintenance of their Wives, Children, and Fami<g ref="char:EOLhyphen"/>lies; yea though they came freely to their bene<g ref="char:EOLhyphen"/>fices.</p>
+            <p>What can bee expected from the Tradeſ-men or Artificers when all other, either want or decay; Now people will bee contented with one ſuite of cloathes, that two heretofore would not have ſerved, ſhooes, boots, hats, and all other apparell, they will Husband after that proportion.</p>
+            <p>There are two ſorts of people in the Common<g ref="char:EOLhyphen"/>wealth well able to give, the one the Vſurer which is commonly free from all payments, in regard the ne<g ref="char:EOLhyphen"/>ceſſities of moſt making them beholding to them, in one kind or other, for themſelves and their friends, they in requitall ſhew him all poſſible eaſe and favour in publique disburſements.</p>
+            <p>The other are Noblemen and Gentlemen former<g ref="char:EOLhyphen"/>ly ſpoken of, that have had their advancement from the King, and his Father, though not immediatly, but Collaterally, for if you caſt your eyes upon divers ſer<g ref="char:EOLhyphen"/>vants of great perſons and remember what you have knowne them, 10. or 12. yeares paſt, it would put you into an admiration, yea ſome from Horſekeepers
+<pb n="24" facs="tcp:156996:13"/>other baſe callings, are now promoted to the degrees of Baronets, Knights and the like, for though that new deviſed order of Baronets was firſt inſtituted for mo<g ref="char:EOLhyphen"/>ney, yet ſuch is the fortune of ſervants, if one great man that is their maſter, once preferre them to the King, the firſt day they enjoy the dignities of Baronets; when Gentlemen of great ranck and qualities that have long ſerved their Princes cannot compaſſe it without conſideration of money.</p>
+            <p>When theſe things you ſhall collect and ſeriouſly call to mind, you would thinke your ſelves theſe 12. yeares laſt paſt a ſleepe, and that you are now newly wakened, you ſhall heare of many things paſt in that ſpace as making and removing of Treaſurers, Keepers, Secretaries, Judges, and all manner of Councellours and Officers, with a million of ſuch memorable and unlookt for accidents.</p>
+            <p>But leaving theſe as grievances and vexations to the Subject, let us come to a neerer point which is the ſafety of the Kingdome that the enemy threatens ſo in danger, wee may truely ſay, that God hath ſo placed and ſeated this Iſle of <hi>England,</hi> that nothing but evill councell can hurt it: but true it is, advice that is not warranted from wiſe men, may prove more forcible and perilous then the power of an enemy, the Scrip<g ref="char:EOLhyphen"/>ture telleth us that the thought periſheth that taketh not Councell.</p>
+            <p>A King of the Lacedemonians asked how a King<g ref="char:EOLhyphen"/>dome might ever ſtand; was anſwered two wayes, if a King take Councell of wiſe honeſt men, that they ſpeake freely and doe juſtice uprightly.</p>
+            <p>There was never Cenſor that judged, Senatour that ordered, Emperour that commanded, Conſull that
+<pb n="25" facs="tcp:156996:13"/>executed Orator that perſwaded, nor any other mor<g ref="char:EOLhyphen"/>tall man but ſometimes hee committed errours, and deſerved either blame or puniſhment for his miſ<g ref="char:EOLhyphen"/>doings, and if hee were wiſe deſired adviſe what to doe.</p>
+            <p>Saint <hi>Gregory</hi> ſaith, no man can give ſo faithfull Councell, as hee who loves one more then his guift, then who are or can bee ſo true Councellours to our noble King as a houſe of Commons, that hath no re<g ref="char:EOLhyphen"/>lation to a Kings guift, but onely to his honour flouri<g ref="char:EOLhyphen"/>ſhing eſtate and ſafety.</p>
+            <p>This is the time to amend evill Councels paſt, and to let evill Councellours ſee their errours.</p>
+            <p>This is the time for all men to put to their helpes, ſome with their hands to fight, others with their ad<g ref="char:EOLhyphen"/>viſe to counſell.</p>
+            <p>And for mine advice, this it is, that you preſent to his Majeſty in all humbleneſſe your, willing minds and hearts to repaire and fit to Sea, his Majeſty navy, your ſelves to have power to make them able and ſervicea<g ref="char:EOLhyphen"/>ble, with the advice of experienced men, that you may call unto you, this is a matter of great importance at this preſent, for the ſafety of the Realme King and Sub<g ref="char:EOLhyphen"/>ject, for the ſtrength of the Kingdome much depends upon this Bulwark, which wee may well tearme the walles of <hi>England.</hi>
+            </p>
+            <p>His Majeſty ſhall find himſelfe much eaſed by it, buſineſſes ſhall bee carried without his trouble or care, moneyes ſhall not bee ſought for to that end, but pro<g ref="char:EOLhyphen"/>vided by you, his Majeſty may diſpoſe of the reſt of his revenew at his pleaſure.</p>
+            <p>By your frugality and husbandry, his Majeſty ſhall have occaſion to judge of things paſt, of yours in pre<g ref="char:EOLhyphen"/>ſent,
+<pb n="26" facs="tcp:156996:14"/>and hereafter it will ſerve for a preſident to walke after, It will ſtop the mouthes of malignant tongues, that informe his Majeſty of the unwilling<g ref="char:EOLhyphen"/>neſſe of the Subject to give, and it will make it ap<g ref="char:EOLhyphen"/>parant that their true griefe is not in the matter of giving, but to ſee the evill imploying of it, when it is given.</p>
+            <p>If any man ſhall prevent this good meaning and motion of yours and infringe his Majeſty, 'tis a de<g ref="char:EOLhyphen"/>rogation from his honour to yeeld to his Subjects upon conditions. His Majeſty ſhall have good cauſe to prove ſuch mens eyes malicious and unthankefull, and thereby to diſprove them in all their other acti<g ref="char:EOLhyphen"/>ons, for what can it leſſon the reputations of a Prince, whom the Subject onely and wholly obeyeth, that a Parliament which his Majeſty doth acknowledge to bee his higheſt Councell ſhould adviſe him, and hee follow the adviſe of ſuch a Councell what diſhonour rather were it to bee adviſed and ruled by one Coun<g ref="char:EOLhyphen"/>cellour alone, againſt whom there is juſt exception taken, of the whole Common-wealth.</p>
+            <p>
+               <hi>Marcus Portio</hi> ſaith, that, that Common-wealth is everlaſting where the Prince ſeeks to get obedience and love, and the Subjects to gaine the affection of the Prince, and that the Kingdome is unhappy where their Prince is ſerved out of ends and hope of reward, and hath no other aſſu<g ref="char:EOLhyphen"/>rance of them, but their ſervices.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
